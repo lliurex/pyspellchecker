@@ -1,3 +1,9 @@
+python3-spellchecker (0.6.3lliurex23) Jammy; urgency=medium
+
+  * Jammy release
+
+ -- Juanma1980 <juanma1980@gmail.com>  Wed, 06 Sep 2023 09:08:35 +0200
+
 python3-spellchecker (0.6.3) focal; urgency=medium
 
   * Initial release. 
